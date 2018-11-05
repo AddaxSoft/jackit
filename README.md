@@ -46,7 +46,6 @@ After installing the firmware, you can install JackIt via:
 
 ```
 git clone https://github.com/insecurityofthings/jackit.git
-cd jackit
 pip install -e .
 ```
 
